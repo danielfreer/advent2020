@@ -1,3 +1,4 @@
 fun main() {
-    println("Hello world!")
+    val advent2020 = Advent2020()
+    println(advent2020.helloWorld)
 }
